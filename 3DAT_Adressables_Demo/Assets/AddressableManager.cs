@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class AddressableManager : MonoBehaviour
@@ -13,7 +14,7 @@ public class AddressableManager : MonoBehaviour
 
     IEnumerator AddressablesPrefabs()
     {
-        AsyncOperationHandle<GameObject> obj = Addressables.InstantiateAsync(assetReferenceGameObject);
+        AsyncOperationHandle<GameObject> obj = Addressables.InstantiateAsync(assetReferenceGameObject, null);
 
         while (!obj.IsDone)
         {
@@ -26,7 +27,12 @@ public class AddressableManager : MonoBehaviour
 
     IEnumerator AddressablesScenes()
     {
-        while (!assetReference.LoadSceneAsync(UnityEngine.SceneManagement.LoadSceneMode.Additive).IsDone)
+        if (SceneManager.sceneCount > 1)
+            yield return true;
+
+        var s = assetReference.LoadSceneAsync(UnityEngine.SceneManagement.LoadSceneMode.Additive);
+
+        while (!s.IsDone)
         {
             yield return null;
         }

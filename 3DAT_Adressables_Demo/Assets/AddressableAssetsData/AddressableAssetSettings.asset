@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
   m_DefaultGroup: f12191159ca5f3c4f91570fbcdabdadd
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
   m_DisableCatalogUpdateOnStart: 0
   m_UniqueBundleIds: 0
@@ -27,6 +27,7 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: 0885373d49e675b4ea617eef2d2ebe1e, type: 2}
   - {fileID: 11400000, guid: eb6e3b359e879ad48bb0ee8541c45d02, type: 2}
+  - {fileID: 11400000, guid: 1c72ac8ecb412854e8e4e3cb9894c6c7, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -61,7 +62,7 @@ MonoBehaviour:
       - m_Id: 64775613a4fb63644a769683513ff556
         m_Value: ServerData/[BuildTarget]
       - m_Id: f117b156c7205f147bbfe66cfa8553e7
-        m_Value: http://localhost/[BuildTarget]
+        m_Value: https://www.3daimtrainer.com/standalone/addressables/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 54c3d391f6b298b4faf05d824c77f3b3
       m_Name: BuildTarget
@@ -82,6 +83,9 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - default
+    - Prefabs
+    - Scenes
+    - Sprites
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 62db6002c833257449d58162494a4734, type: 2}

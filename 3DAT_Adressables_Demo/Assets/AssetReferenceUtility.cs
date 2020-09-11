@@ -7,20 +7,15 @@ using UnityEngine.ResourceManagement.AsyncOperations;
 public class AssetReferenceUtility : MonoBehaviour
 {
     public AssetReference objectToLoad; 
-    public AssetReference accessoryObjectToLoad; 
+    //public AssetReference accessoryObjectToLoad; 
+    [SerializeField]
     private GameObject instantiatedObject; 
-    private GameObject instantiatedAccessoryObject;
+    //private GameObject instantiatedAccessoryObject;
     // Start is called before the first frame update
     void Start()
     {
         Addressables.LoadAssetAsync<GameObject>(objectToLoad).Completed += ObjectLoadDone;
     }
-
-    // Update is called once per frame
-    //void Update()
-    //{
-        
-    //}
 
     private void ObjectLoadDone(AsyncOperationHandle<GameObject> obj) 
     {
@@ -30,15 +25,15 @@ public class AssetReferenceUtility : MonoBehaviour
             Debug.Log("Successfully loaded object."); 
             instantiatedObject = Instantiate(loadedObject); 
             Debug.Log("Successfully instantiated object."); 
-            if (accessoryObjectToLoad != null) 
-            { 
-                accessoryObjectToLoad.InstantiateAsync(instantiatedObject.transform).Completed += op => { 
-                    if (op.Status == AsyncOperationStatus.Succeeded) 
-                    { 
-                        instantiatedAccessoryObject = op.Result; Debug.Log("Successfully loaded and instantiated accessory object."); 
-                    } 
-                }; 
-            } 
+            //if (accessoryObjectToLoad != null) 
+            //{ 
+            //    accessoryObjectToLoad.InstantiateAsync(instantiatedObject.transform).Completed += op => { 
+            //        if (op.Status == AsyncOperationStatus.Succeeded) 
+            //        { 
+            //            instantiatedAccessoryObject = op.Result; Debug.Log("Successfully loaded and instantiated accessory object."); 
+            //        } 
+            //    }; 
+            //} 
         }
     }
 }

@@ -23,24 +23,6 @@ MonoBehaviour:
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
-  - m_GUID: 654de2a2554a5de4fb7a9d8b7f3c2a73
-    m_Address: Assets/Scenes/S_3.unity
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
-  - m_GUID: 91c6da1a61fa06146bae8f41a6437fc7
-    m_Address: Assets/Empire.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
-  - m_GUID: a9fee7e5a84d492419852a3a06108668
-    m_Address: Assets/PF_gun.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
   - m_GUID: cc62d8fd2829b4b49b451dc7accce73e
     m_Address: Assets/SPRA_Link.spriteatlas
     m_ReadOnly: 0
