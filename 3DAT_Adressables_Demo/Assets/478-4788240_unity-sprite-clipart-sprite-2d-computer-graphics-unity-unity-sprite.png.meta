@@ -1,0 +1,3175 @@
+fileFormatVersion: 2
+guid: d9dc09550f9f2bc42a3700e5fb8fe214
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7330408464039721353
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_0
+  - first:
+      213: -3200792488024909316
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_1
+  - first:
+      213: 2589578784927302375
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_2
+  - first:
+      213: -3549012723626980576
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_3
+  - first:
+      213: -7345588214086801552
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_4
+  - first:
+      213: 2596661818608182561
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_5
+  - first:
+      213: -36409444843333627
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_6
+  - first:
+      213: -6976601440487451418
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_7
+  - first:
+      213: 5131511371396080080
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_8
+  - first:
+      213: 2582794971328150217
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_9
+  - first:
+      213: -869651139109647937
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_10
+  - first:
+      213: 2989855722788538888
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_11
+  - first:
+      213: 7137964441336039629
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_12
+  - first:
+      213: -1404829076051143842
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_13
+  - first:
+      213: -7108289961781871137
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_14
+  - first:
+      213: -20865746978236489
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_15
+  - first:
+      213: 8644933500725373396
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_16
+  - first:
+      213: 5635627998355937666
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_17
+  - first:
+      213: -4582369694844016273
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_18
+  - first:
+      213: -3521002576571677449
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_19
+  - first:
+      213: 2093005587930341826
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_20
+  - first:
+      213: 364422336568738695
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_21
+  - first:
+      213: 4691741430244093854
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_22
+  - first:
+      213: -3601784476837492699
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_23
+  - first:
+      213: -4176992551664609031
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_24
+  - first:
+      213: -1273308623868902970
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_25
+  - first:
+      213: 6580231462129173401
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_26
+  - first:
+      213: -3046305218072890651
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_27
+  - first:
+      213: 2755599018420743851
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_28
+  - first:
+      213: -5545200055184055472
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_29
+  - first:
+      213: -450982979630987867
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_30
+  - first:
+      213: -4447229540424202257
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_31
+  - first:
+      213: 5706859838773198948
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_32
+  - first:
+      213: -730552354460947313
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_33
+  - first:
+      213: -2194316187266086050
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_34
+  - first:
+      213: -254710193915912943
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_35
+  - first:
+      213: 6092613144394478502
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_36
+  - first:
+      213: 2146095440603831803
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_37
+  - first:
+      213: 1686627997000096838
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_38
+  - first:
+      213: 6543335090536581980
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_39
+  - first:
+      213: 3992736477453097265
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_40
+  - first:
+      213: 2511055815091139865
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_41
+  - first:
+      213: -8183096713115287686
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_42
+  - first:
+      213: -696555134777575900
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_43
+  - first:
+      213: 5598965201953594346
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_44
+  - first:
+      213: -808263619218177236
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_45
+  - first:
+      213: -6136975759866699159
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_46
+  - first:
+      213: 6965477495702192054
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_47
+  - first:
+      213: -2179956970912557097
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_48
+  - first:
+      213: -2924301291493049930
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_49
+  - first:
+      213: -4401191868500204418
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_50
+  - first:
+      213: 6897871972657911359
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_51
+  - first:
+      213: -403531771762734115
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_52
+  - first:
+      213: -5255963937120110690
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_53
+  - first:
+      213: -4045794217439249091
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_54
+  - first:
+      213: -7011975112810504413
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_55
+  - first:
+      213: -2154203490153119026
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_56
+  - first:
+      213: -2630384104554574208
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_57
+  - first:
+      213: -1998322184871009767
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_58
+  - first:
+      213: 7907288140998125114
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_59
+  - first:
+      213: 2338760155411203076
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_60
+  - first:
+      213: -2468035213997117467
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_61
+  - first:
+      213: -8259811967055626365
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_62
+  - first:
+      213: -8421657143516558391
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_63
+  - first:
+      213: 308469551910666466
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_64
+  - first:
+      213: 2918232474581733909
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_65
+  - first:
+      213: 3080789339529974638
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_66
+  - first:
+      213: -2618854006791067159
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_67
+  - first:
+      213: -3317983518667006858
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_68
+  - first:
+      213: 3484576258024004485
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_69
+  - first:
+      213: 3902702113328383428
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_70
+  - first:
+      213: -5641422555730830410
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_71
+  - first:
+      213: -8112558250741712375
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_72
+  - first:
+      213: -4834358347233129713
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_73
+  - first:
+      213: -872574496300627718
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_74
+  - first:
+      213: 6775847368441415736
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_75
+  - first:
+      213: -8393124830514291840
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_76
+  - first:
+      213: -3377162214389716296
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_77
+  - first:
+      213: 872679996267978985
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_78
+  - first:
+      213: 7188443066762856498
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_79
+  - first:
+      213: 4671589843076890690
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_80
+  - first:
+      213: 770061273169459123
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_81
+  - first:
+      213: 4332441764882999136
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_82
+  - first:
+      213: -5986836101376534169
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_83
+  - first:
+      213: -7265587964012576340
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_84
+  - first:
+      213: -137266339019970161
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_85
+  - first:
+      213: 8302472017817339739
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_86
+  - first:
+      213: -2385639425567447776
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_87
+  - first:
+      213: -4960192449182421891
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_88
+  - first:
+      213: 4981208310164879741
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_89
+  - first:
+      213: -9200806581665589204
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_90
+  - first:
+      213: 8588230286087043922
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_91
+  - first:
+      213: 6323571612533228698
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_92
+  - first:
+      213: 2244521873869080723
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_93
+  - first:
+      213: 5093737222956861882
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_94
+  - first:
+      213: 8661842364683300829
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_95
+  - first:
+      213: 1771307563894984883
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_96
+  - first:
+      213: 4510017696387197440
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_97
+  - first:
+      213: -5388970911584975398
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_98
+  - first:
+      213: -3550940239081522
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_99
+  - first:
+      213: 1733321603351237620
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_100
+  - first:
+      213: 838360176858958634
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_101
+  - first:
+      213: -6589092306393143796
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_102
+  - first:
+      213: 7674459892251282077
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_103
+  - first:
+      213: 4562799419825641216
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_104
+  - first:
+      213: -4958453191675933465
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_105
+  - first:
+      213: 1702983224662455720
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_106
+  - first:
+      213: -1278825906714496922
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_107
+  - first:
+      213: -3574218322023173496
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_108
+  - first:
+      213: 5511396379035007899
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_109
+  - first:
+      213: 38510063010238195
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_110
+  - first:
+      213: 2833785049385913865
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_111
+  - first:
+      213: 919084468707827309
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_112
+  - first:
+      213: -1449483842734519912
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_113
+  - first:
+      213: -1365620364895923751
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_114
+  - first:
+      213: -3321629142302026884
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_115
+  - first:
+      213: -7122551205460743351
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_116
+  - first:
+      213: -6658824285746959594
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_117
+  - first:
+      213: 3784757764981473325
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_118
+  - first:
+      213: -992427110274722638
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_119
+  - first:
+      213: -2696085485708675565
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_120
+  - first:
+      213: -88402864443181282
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_121
+  - first:
+      213: -4171886283786387548
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_122
+  - first:
+      213: 2452146177326078917
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_123
+  - first:
+      213: -4172952219831132965
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_124
+  - first:
+      213: -4153280224743642501
+    second: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_125
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 132, y: 0, z: 128, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db666fb6a3b5f0f418fbf1babb7b9744
+      internalID: 7330408464039721353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09eb86c67668b44487e5105ccc2b0f7
+      internalID: -3200792488024909316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac52210b04a4b242b66cb4bd5bfbe2f
+      internalID: 2589578784927302375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc709db0eec61f648a7811e33605f2ae
+      internalID: -3549012723626980576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aee636aeee9827449fa3747f0dd547e
+      internalID: -7345588214086801552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31443dba42a6f4d48986ce19ff7f3573
+      internalID: 2596661818608182561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299d298ca76e71b4c982515ceedd370c
+      internalID: -36409444843333627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c04b54e3f947e847b0934b1119c5dc0
+      internalID: -6976601440487451418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e88de43ff52ef745a0e244d0ba15f07
+      internalID: 5131511371396080080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1234a981f2f3849bb168837751cc4d
+      internalID: 2582794971328150217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4565f19a9f32f14b8bac4fe0cd6eb6a
+      internalID: -869651139109647937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877d52637923c5a4c817a80e744e1470
+      internalID: 2989855722788538888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b7992623187f3409d42e09406d6862
+      internalID: 7137964441336039629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 475.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c34880965d40c49a896bb67e965b45
+      internalID: -1404829076051143842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd659a8097e2d14da7b490905b1b18e
+      internalID: -7108289961781871137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae43df7543b0f448bfd2e55132cf1ad
+      internalID: -20865746978236489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a92db11a9e13ef4191ec0669b287e1a
+      internalID: 8644933500725373396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a57c41a9e75644c9d477ca52f7c20b
+      internalID: 5635627998355937666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8225bf0fd5ba7f542b9e7bedf8b1f2d7
+      internalID: -4582369694844016273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2d79ff6a3c2f041b93fedc2f75c946
+      internalID: -3521002576571677449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67f8ad16432758418a1f3eb6585f7e2
+      internalID: 2093005587930341826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02578a97f00500c4eb7d74cb8f6ad03b
+      internalID: 364422336568738695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfc75c3a5d636a46b4ae08d59b76eb8
+      internalID: 4691741430244093854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636bb50f90c0d034cb2c7d7a5c9f03c7
+      internalID: -3601784476837492699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269edf6e5dce59948a3130b68c518659
+      internalID: -4176992551664609031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5aa8196085818419631063d05f7fb5
+      internalID: -1273308623868902970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006cc956100689e45b610bd78a7d93a9
+      internalID: 6580231462129173401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 416.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae6e16914777de44af183b553591643
+      internalID: -3046305218072890651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b81b34c3389284c96dbeedeb358936
+      internalID: 2755599018420743851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b743d8d61851428af4b8f2dbee375
+      internalID: -5545200055184055472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68062ad3f3f96c6459c9fde9177d858a
+      internalID: -450982979630987867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6ce8b0ab1d98b48b6e91ba03966d67
+      internalID: -4447229540424202257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d5cbb19b7cc6f4395f6c5f8a7d6592
+      internalID: 5706859838773198948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d06991886cac744af14291bd416085
+      internalID: -730552354460947313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc01f57ab9b02534886035af658d29b9
+      internalID: -2194316187266086050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c1ef6aac52aec4299c1c20dcfbcfb3
+      internalID: -254710193915912943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_36
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65507a7275fcdc144b826bcfc9258233
+      internalID: 6092613144394478502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_37
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfafde1966b5ea4469ef6a927c097619
+      internalID: 2146095440603831803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_38
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e93a996f04af6409363dc78fecc657
+      internalID: 1686627997000096838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_39
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf30535f2d15c1b41b9ceef5624d8bc2
+      internalID: 6543335090536581980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_40
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc269198d9c39394f8d4e85d28d5aada
+      internalID: 3992736477453097265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_41
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 357.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ef08eb4a3603a4688b466dafa5ea47
+      internalID: 2511055815091139865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfe24cd1fab1cd47a90e43a157ca898
+      internalID: -8183096713115287686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_43
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed14300213e398b4ea2a31d985fbf311
+      internalID: -696555134777575900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d822dded2129914f91093c90c179009
+      internalID: 5598965201953594346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0206b51ff638a14439772077449f032a
+      internalID: -808263619218177236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_46
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5697f9e5ba5d4da49acf2913da41de77
+      internalID: -6136975759866699159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_47
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7895476ae9d294283adbe5caf08d3f
+      internalID: 6965477495702192054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_48
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24178336955be67409d2a5f8b4d00c4e
+      internalID: -2179956970912557097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_49
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c5ad4ca3e3ea546b7437ec80e2c0cb
+      internalID: -2924301291493049930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_50
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f035171e804b3547af358f6fa714ea4
+      internalID: -4401191868500204418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_51
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa692745c29d82468848ee72fe704bf
+      internalID: 6897871972657911359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_52
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425f24519756bc14fa7021fa00b7e3b3
+      internalID: -403531771762734115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_53
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7236e99facb0d28409693a696b206bdb
+      internalID: -5255963937120110690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_54
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5574ba67601dc14aa3ff674341f158a
+      internalID: -4045794217439249091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_55
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 298.55554
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a467bec7497ca848938d1ed5507b21d
+      internalID: -7011975112810504413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f609b0ca969be74ea2093fda9b68563
+      internalID: -2154203490153119026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066dfb9d0f78ba42a7e980c01d0ba12
+      internalID: -2630384104554574208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1bf607a9fe51a45829e507cb5d4ccb
+      internalID: -1998322184871009767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_59
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10831ee82f471544abbdd1541e43293
+      internalID: 7907288140998125114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_60
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e88217a5ec4a145811e392f1b7d19a
+      internalID: 2338760155411203076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_61
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578ae2fcbc9f51d4aae1d215874546a9
+      internalID: -2468035213997117467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_62
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796cdec68da08bc4c9ee5b5d655a409c
+      internalID: -8259811967055626365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_63
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a39bf06b87cee74b81dcda50b49ca99
+      internalID: -8421657143516558391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_64
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a293bfc92d7904994b9f7f893b85ef
+      internalID: 308469551910666466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_65
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f6680bd776aeb40a09b4ff92efcedb
+      internalID: 2918232474581733909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_66
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd174edb0984ca6439dc4b4e9ad58286
+      internalID: 3080789339529974638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_67
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bb5fa5e60436246898d7faffb7f1fc
+      internalID: -2618854006791067159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_68
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714e7bdbfc21a1946af94c9becf8eba1
+      internalID: -3317983518667006858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_69
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 239.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb99eac97c1a184d9b8ad12c0a87767
+      internalID: 3484576258024004485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_70
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be73990c3a25fd349a26aeac8eee8227
+      internalID: 3902702113328383428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1879492aa71024b98d8f420071ddd4
+      internalID: -5641422555730830410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_72
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0d046ed98b7c946a4b9a07bcd9d006
+      internalID: -8112558250741712375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_73
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87e4d941beead940bd878fa8997a68e
+      internalID: -4834358347233129713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_74
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272871e7460e4c643834c8a446af48f1
+      internalID: -872574496300627718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_75
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab3c59425705044ea4cbd15f9653fa8
+      internalID: 6775847368441415736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_76
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3f747a65af1b84f968195bbaec4dc1
+      internalID: -8393124830514291840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_77
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e58903f704e8d4c83ee3041632ca59
+      internalID: -3377162214389716296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_78
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048f5e7e666f5cd49a9f1092932acedd
+      internalID: 872679996267978985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_79
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9738dffc5572f7a44a08775984a6b8e0
+      internalID: 7188443066762856498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_80
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587d434d891d6434192367bb184cfdca
+      internalID: 4671589843076890690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_81
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c1baca62efde4fab3097714fd8b69
+      internalID: 770061273169459123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_82
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72588135793f7d47a340a1b6cf91158
+      internalID: 4332441764882999136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_83
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 180.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd6159b264960d4490e8ee49f676dfb
+      internalID: -5986836101376534169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0595445efadd2648bc0e02b883d80ca
+      internalID: -7265587964012576340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_85
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b3bff41cf30f24daabfca4f7d52878
+      internalID: -137266339019970161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_86
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde0b62ccea32e3458959741836a4853
+      internalID: 8302472017817339739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_87
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6c3fe8497ffda4080546e1b2705602
+      internalID: -2385639425567447776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_88
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b62a1de710c514fa14de64614eb18d
+      internalID: -4960192449182421891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_89
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4e92d019683e346bd4a80d92a4e6f7
+      internalID: 4981208310164879741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_90
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663421e61121664fb6d46e8d322c525
+      internalID: -9200806581665589204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_91
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cf851707a7f044799598ae39331b8c
+      internalID: 8588230286087043922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_92
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713af9db5240aee4095dc548a8e58f05
+      internalID: 6323571612533228698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_93
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a883609e98a0ffb44b85d783e419db76
+      internalID: 2244521873869080723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_94
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d58f1c519a8dfa4bba5de3ea4abb853
+      internalID: 5093737222956861882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_95
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2bb077f7f5367468ce603b5d887696
+      internalID: 8661842364683300829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_96
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27000c69c0c0d4246978ddd57bb04426
+      internalID: 1771307563894984883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_97
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 121.55556
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9b01d712ec9844eac75fff7c716631
+      internalID: 4510017696387197440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_98
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2075be95124d1b44b10422ff81ab8b2
+      internalID: -5388970911584975398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_99
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9790cc8ada28f45ad27624aa4a1ad1
+      internalID: -3550940239081522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_100
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9294b67d47592f46b4fdccb565369f6
+      internalID: 1733321603351237620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_101
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca56e71971502044b823522ebcb54e4d
+      internalID: 838360176858958634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_102
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed952385131f59446af7e071148122af
+      internalID: -6589092306393143796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_103
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0377f9aac54c8b54599b86115f6f624c
+      internalID: 7674459892251282077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_104
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77b3884f8b4a1448b2bb4e2c4faff47
+      internalID: 4562799419825641216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_105
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e97417015321a4296c6b9eabc61660
+      internalID: -4958453191675933465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_106
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2037582c98f4a4f93fb9a9dc54c458
+      internalID: 1702983224662455720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_107
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904674ed8b9bcad43bb25ed8aecba960
+      internalID: -1278825906714496922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_108
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae2f4a35ec79644c8fbf3d2ad63afd9
+      internalID: -3574218322023173496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_109
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f705d1583007914982f280f4efda2c9
+      internalID: 5511396379035007899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_110
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16f1e10a6c0e894ba8bfa72ea6b7e9f
+      internalID: 38510063010238195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_111
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 62.555557
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608df7d19853f9e4ea10a1b959f22e4f
+      internalID: 2833785049385913865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_112
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1aa563361b76243bb50181315c0a0b
+      internalID: 919084468707827309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_113
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ddfd70311a3e049b87ba63b9740d8a
+      internalID: -1449483842734519912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_114
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ddcb449bdb84f43a45c2e118c39b7d
+      internalID: -1365620364895923751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_115
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd119d7deebc3f408abb7213d5bc0f1
+      internalID: -3321629142302026884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_116
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f377a1744c598c34e98db7d12b29f95e
+      internalID: -7122551205460743351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_117
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cb4befd8a85274985689d5c71dd89e
+      internalID: -6658824285746959594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_118
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f57a05e77c0f24b8d4632bfec0e11b
+      internalID: 3784757764981473325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_119
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5353401fe9a68cb4596e3d44d79faa2f
+      internalID: -992427110274722638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_120
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8700257d48628894198ebed526aa9b3a
+      internalID: -2696085485708675565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_121
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12339df44ec7b664298a5b836e7b9029
+      internalID: -88402864443181282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_122
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f7b3a4a4d3daa4ead0d214d321dd1d
+      internalID: -4171886283786387548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_123
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b98813c328d6ac4cb4d06d6f16fc309
+      internalID: 2452146177326078917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_124
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331ab951e87dcb34f9935fc60eb268f9
+      internalID: -4172952219831132965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 478-4788240_unity-sprite-clipart-sprite-2d-computer-graphics-unity-unity-sprite_125
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3.5555573
+        width: 59.142857
+        height: 59.444443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f8ca943b9089949914c6a36ada9e4e
+      internalID: -4153280224743642501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
