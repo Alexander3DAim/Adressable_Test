@@ -10,28 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: MyRemoteContent
+  m_Name: MyRemotePrefabs
   m_EditorClassIdentifier: 
-  m_GroupName: MyRemoteContent
+  m_GroupName: MyRemotePrefabs
   m_Data:
     m_SerializedData: []
-  m_GUID: fe16a1815a7777e44a6192aab82bac2e
+  m_GUID: 106aa5b5f02d02640b502ed890bdd905
   m_SerializeEntries:
-  - m_GUID: 654de2a2554a5de4fb7a9d8b7f3c2a73
-    m_Address: Assets/Scenes/S_3.unity
+  - m_GUID: a9fee7e5a84d492419852a3a06108668
+    m_Address: Assets/PF_gun.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
-  - m_GUID: 91c6da1a61fa06146bae8f41a6437fc7
-    m_Address: Assets/Empire.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    m_MainAsset: {fileID: 2800000, guid: 91c6da1a61fa06146bae8f41a6437fc7, type: 3}
-    m_TargetAsset: {fileID: 2800000, guid: 91c6da1a61fa06146bae8f41a6437fc7, type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: a8775755105adc545ad66464938aa293, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 234a0a492fdc9714f8828a41ad9ad894, type: 2}
-    - {fileID: 11400000, guid: 7e30cf359a8a42a459d6e310de189a46, type: 2}
+    - {fileID: 11400000, guid: 5a4ae17a051a5f84cb24342b132ebe2e, type: 2}
+    - {fileID: 11400000, guid: 57bf06641406de941b21d6fba264f73d, type: 2}
